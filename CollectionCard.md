@@ -6,6 +6,12 @@
 
 ## 术语卡
 
+1. Version Control System (VCS)
+2. Centralized Version Control Systems (CVCSs)
+3. Distributed Version Control Systems (DVCSs)
+
+
+
 
 
 ## 人名卡
@@ -24,3 +30,4 @@
    - Strong support for non-linear development (thousands of parallel branches)
    - Fully distributed
    - Able to handle large projects like the Linux kernel efficiently (speed and data size)
+2. this aspect of Git will make you think that the gods of speed have blessed Git with unworldly powers. Because you have the entire history of the project right there on your local disk, most operations seem almost instantaneous.
